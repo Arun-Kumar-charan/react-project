@@ -1,0 +1,10 @@
+.register_story {
+    height: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-content: space-between;
+    gap: 6.3rem;
+    place-items: center;
+    margin-left: 2rem;
+}
